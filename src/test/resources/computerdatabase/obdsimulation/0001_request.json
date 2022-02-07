@@ -1,0 +1,85 @@
+{
+    "Time": 1595523127003,
+    "Data": [
+        {
+            "sensor": "eml",
+            "value": ""
+        },
+        {
+            "sensor": "v",
+            "value": "8"
+        },
+        {
+            "sensor": "kff1005",
+            "value": "-9.406198728829622,-9.406198728829622"
+        },
+        {
+            "sensor": "kff1006",
+            "value": "52.83701450563967,52.83701450563967"
+        },
+        {
+            "sensor": "kff1001",
+            "value": "0.0,0.0"
+        },
+        {
+            "sensor": "kff1007",
+            "value": "0.0"
+        },
+        {
+            "sensor": "k5",
+            "value": "29.0"
+        },
+        {
+            "sensor": "k4",
+            "value": "38.039215"
+        },
+        {
+            "sensor": "kc",
+            "value": "793.0"
+        },
+        {
+            "sensor": "kff1010",
+            "value": "85.0"
+        },
+        {
+            "sensor": "kff123b",
+            "value": "0.0"
+        },
+        {
+            "sensor": "kf",
+            "value": "21.0"
+        },
+        {
+            "sensor": "kb",
+            "value": "101.0"
+        },
+        {
+            "sensor": "kff1203",
+            "value": "0.0"
+        },
+        {
+            "sensor": "kff5202",
+            "value": "13.478661"
+        },
+        {
+            "sensor": "kd",
+            "value": "0.0"
+        },
+        {
+            "sensor": "kff120c",
+            "value": "3957.1504"
+        },
+        {
+            "sensor": "kff1268",
+            "value": "0.0"
+        },
+        {
+            "sensor": "kff1267",
+            "value": "0.0"
+        },
+        {
+            "sensor": "kff1202",
+            "value": "-0.05118847"
+        }
+    ]
+}
